@@ -1,4 +1,6 @@
 #Name: Samarth Sharma
+#Class: B.tech CSE (AI ML) 1st year 
+#Section-A
 #Roll No: 2501730279
 
 import pandas as pd
